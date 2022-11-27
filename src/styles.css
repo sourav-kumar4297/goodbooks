@@ -1,0 +1,10 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+button {
+  margin: 0.5rem;
+  padding: 0.4rem;
+  border-radius: 0.2rem 0.5rem 0.5rem;
+  background-color: aquamarine;
+}
